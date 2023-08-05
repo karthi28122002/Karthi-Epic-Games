@@ -1,0 +1,35 @@
+1, button click pannum poothu validation nadakkum
+
+2, function for both button
+
+3, console.log
+
+4, form value yedukkanum 
+
+
+for select we want to use onchange only not onclick
+
+javascript events type {
+
+onclick
+
+onchange
+
+blur
+
+keyup
+
+keydown/keypress
+
+}
+
+if (condition) {
+
+} 
+
+else {
+    
+}
+
+variable declaration
+
